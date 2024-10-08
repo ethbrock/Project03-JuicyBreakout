@@ -6,6 +6,11 @@ TagManager:
   tags:
   - death
   - block
+  - colorOverlay
+  - background
+  - ball
+  - control
+  - wall
   layers:
   - Default
   - TransparentFX
